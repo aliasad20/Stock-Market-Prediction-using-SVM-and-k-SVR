@@ -29,13 +29,13 @@ This project aims to create a stock market prediction system using SVM and k-SVR
 ## Dataset Examples
 - ### Apple Data
     - Dataset plot
-![image](data\appl_graph\aapl.png)
+![image](data/appl_graph/aapl.png)
     - Plot of Model prediction and real data
-![image](data\appl_graph\appl_graph.png)
+![image](data/appl_graph/appl_graph.png)
 - ### Google Data
     - Dataset Plot
-![image](data\GOOGL_GRAPH\googl.png)
+![image](data/GOOGL_GRAPH/googl.png)
     - Plot of Model prediction and real data
-![image](data\GOOGL_GRAPH\GOOGL_GRAPH.png)
+![image](data/GOOGL_GRAPH/GOOGL_GRAPH.png)
 
 
